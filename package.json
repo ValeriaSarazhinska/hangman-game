@@ -1,7 +1,7 @@
 {
   "name": "hangman",
   "private": true,
-  "homepage": "http://ValeriaSarazhinska.github.io/hangman-game",
+  "homepage": "https://ValeriaSarazhinska.github.io/hangman-game",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
